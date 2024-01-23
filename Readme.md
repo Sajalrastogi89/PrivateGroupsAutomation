@@ -1,7 +1,7 @@
 # Telegram Channel Invite Link Generator with 1 member limit
 
 ## Main Objective
-I have created a service to simplify the process of adding people to a private group automatically. The API takes the `chatid` and `tokenid` as input and returns an invite link with a member limit of one. The generated link expires after one member has joined, streamlining the process of adding individuals to a private group. This API is designed for legitimate use, ensuring that only authorized individuals can access the generated invite link.
+I have created a service to simplify the process of automatically adding people to a private group. The API takes the chatid and tokenid as input and returns an invite link with a member limit of one. The generated link expires after one member has joined, streamlining the process of adding individuals to a private group. This API is designed for legitimate use, ensuring that only authorized individuals can access the generated invite link. Use this service in your backend projects to directly create groups of authorized persons.
 
 ## Application
 For example, if a website is developed for a teacher and only those who have paid can access the course, this API can be called right after a successful payment. The API returns an invite link with a member limit of one, ensuring that only the paying student can join. This eliminates the need for developing a separate group chat feature on the teacher's website, leveraging Telegram for this purpose.
