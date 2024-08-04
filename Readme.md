@@ -8,7 +8,7 @@ When a paid course platform is built, several challenges arise:
 - If developers do not create a group within the application, the admin will face difficulties managing group members.
 - Admins would need to add all members manually on a third-party platform, which is time-consuming and error-prone.
   <p align="center">
-  <img src="images/Screenshot%202024-08-05%20032855.png" alt="Private Group Automation" width="auto" height="80">
+  <img src="images/Screenshot%202024-08-05%20032855.png" alt="Private Group Automation" width="400vw" height=auto>
 </p>
 
 
@@ -21,7 +21,7 @@ To address these challenges, I created a third-party service that automates the 
 - Helps admins by automating the addition of members, ensuring only authorized individuals join.
 
   <p align="center">
-  <img src="images/Screenshot%202024-08-05%20033426.png" alt="Private Group Automation" width="auto" height="80">
+  <img src="images/Screenshot%202024-08-05%20033426.png" alt="Private Group Automation" width="400vw" height=auto>
 </p>
 
 
