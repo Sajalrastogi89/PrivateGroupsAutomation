@@ -8,7 +8,7 @@ When a paid course platform is built, several challenges arise:
 - If developers do not create a group within the application, the admin will face difficulties managing group members.
 - Admins would need to add all members manually on a third-party platform, which is time-consuming and error-prone.
   <p align="center">
-  <img src="images/Detective.png" alt="Private Group Automation" width="auto" height="80">
+  <img src="images/Screenshot%202024-08-05%20032855.png" alt="Private Group Automation" width="auto" height="80">
 </p>
 
 
