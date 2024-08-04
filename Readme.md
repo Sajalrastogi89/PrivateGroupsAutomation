@@ -21,7 +21,7 @@ To address these challenges, I created a third-party service that automates the 
 - Helps admins by automating the addition of members, ensuring only authorized individuals join.
 
   <p align="center">
-  <img src="images/Detective.png" alt="Private Group Automation" width="auto" height="80">
+  <img src="images/Screenshot%202024-08-05%20033426.png" alt="Private Group Automation" width="auto" height="80">
 </p>
 
 
