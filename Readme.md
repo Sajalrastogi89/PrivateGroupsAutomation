@@ -1,4 +1,4 @@
-# Private Group Automation
+# Private Group Automation ![Private Group Automation](URL_TO_YOUR_IMAGE)
 
 ## Problem Statement
 
