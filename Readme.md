@@ -1,4 +1,4 @@
-# Telegram Channel Invite Link Generator with 1 member limit
+# Private Group Automation
 
 ## Main Objective
 - Simplifies the process of automatically adding people to a private group.
