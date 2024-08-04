@@ -11,7 +11,7 @@
 
 
 ## Application
-- If a website is developed for a teacher and only those who have paid can access the course:
+-  Example -> If a website is developed for a teacher and only those who have paid can access the course:
 - The API can be called right after a successful payment.
 - The API returns an invite link with a member limit of one, ensuring that only the paying student can join.
 - This eliminates the need for developing a separate group chat feature on the teacher's website.
