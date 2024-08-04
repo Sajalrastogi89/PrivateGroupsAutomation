@@ -1,5 +1,4 @@
-# Private Group Automation 
-<img src="images/Secret-removebg-preview.png" alt="Private Group Automation" width="20vw" height="20vw">
+# Private Group Automation <img src="images/Secret-removebg-preview.png" alt="Private Group Automation" width="80" height="80" style="vertical-align: text-bottom;">
 
 ## Problem Statement
 
