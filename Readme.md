@@ -1,4 +1,5 @@
-# Private Group Automation <img src="images/Detective1.png" alt="Private Group Automation" width=auto height="300vw" style="vertical-align: baseline; padding-left: 5px;">
+# Private Group Automation 
+<img src="images/Detective1.png" alt="Private Group Automation" width=auto height="300vw" style="vertical-align: baseline; padding-left: 5px;">
 
 ## Problem Statement
 
